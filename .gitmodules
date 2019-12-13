@@ -1,0 +1,12 @@
+[submodule "queue-api"]
+	path = queue-api
+	url = https://github.com/mophos/queue-api
+[submodule "queue-web"]
+	path = queue-web
+	url = https://github.com/mophos/queue-web
+[submodule "queue-mqtt"]
+	path = queue-mqtt
+	url = https://github.com/mophos/queue-mqtt
+[submodule "queue-docker"]
+	path = queue-docker
+	url = https://github.com/mophos/queue-docker
